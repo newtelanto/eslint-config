@@ -1,0 +1,31 @@
+{
+  "name": "@newtelanto/eslint-config-typescript",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/newtelanto/eslint-config.git",
+    "directory": "packages/typescript"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "dependencies": {
+    "@newtelanto/eslint-config-basic": "*",
+    "@typescript-eslint/eslint-plugin": "^4.28.1",
+    "@typescript-eslint/parser": "^4.28.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  }
+}
