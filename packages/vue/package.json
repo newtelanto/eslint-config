@@ -1,6 +1,6 @@
 {
   "name": "@newtelanto/eslint-config-vue",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -20,7 +20,7 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@newtelanto/eslint-config-typescript": "*",
+    "@newtelanto/eslint-config-typescript": "^0.1.0",
     "eslint-plugin-vue": "7.12.1"
   },
   "devDependencies": {
