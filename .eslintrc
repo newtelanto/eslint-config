@@ -1,0 +1,3 @@
+{
+  "extends": "@newtelanto/eslint-config-basic"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@newtelanto/eslint-config",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "lint": "yarn eslint --ext .js,.json --fix .",
+    "release": "lerna version",
+    "release:patch": "lerna publish patch",
+    "release:minor": "lerna publish minor",
+    "release:major": "lerna publish major"
+  },
+  "devDependencies": {
+    "@newtelanto/eslint-config-basic": "*",
+    "eslint": "^7.30.0",
+    "lerna": "^4.0.0",
+    "typescript": "^4.3.5"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
