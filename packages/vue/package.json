@@ -1,0 +1,29 @@
+{
+  "name": "@newtelanto/eslint-config-vue",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/newtelanto/eslint-config.git",
+    "directory": "packages/vue"
+  },
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "dependencies": {
+    "@newtelanto/eslint-config-typescript": "*",
+    "eslint-plugin-vue": "7.12.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  }
+}
