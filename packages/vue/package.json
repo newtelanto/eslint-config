@@ -21,10 +21,10 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@newtelanto/eslint-config-typescript": "^0.1.1",
-    "eslint-plugin-vue": "7.12.1"
+    "@newtelanto/eslint-config-typescript": "^0.1.2",
+    "eslint-plugin-vue": "7.16.0"
   },
   "devDependencies": {
-    "eslint": "^7.30.0"
+    "eslint": "^7.32.0"
   }
 }
