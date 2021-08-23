@@ -4,6 +4,7 @@ module.exports = {
   extends: [
     '@newtelanto/eslint-config-basic',
     'plugin:@typescript-eslint/recommended',
+    'plugin:import/typescript',
   ],
   overrides: basic.overrides,
   rules: {
