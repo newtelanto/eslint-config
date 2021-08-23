@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.3 (2021-08-23)
+
+
+### Features
+
+* **deps:** update ([87cfaf4](https://github.com/newtelanto/eslint-config/commit/87cfaf493180030fd6e6ea0b79d847b69d7ff03b))
+* **package:** typescript config ([d6545b2](https://github.com/newtelanto/eslint-config/commit/d6545b25eb5599ccf90b585a905fe638461056cb))
+
+
+
+
+
 ## [0.1.2](https://github.com/newtelanto/eslint-config/compare/@newtelanto/eslint-config-typescript@0.1.1...@newtelanto/eslint-config-typescript@0.1.2) (2021-08-23)
 
 **Note:** Version bump only for package @newtelanto/eslint-config-typescript
