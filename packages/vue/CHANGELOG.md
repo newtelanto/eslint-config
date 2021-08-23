@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.5](https://github.com/newtelanto/eslint-config/compare/v0.1.4...v0.1.5) (2021-08-23)
+
+
+### Features
+
+* **rule:** off [@typescript](https://github.com/typescript) no-use-before-define ([111f439](https://github.com/newtelanto/eslint-config/commit/111f4390536fc6d57c90ac70e5471cf54eeb7c6c))
+
+
+
+
+
 ## [0.1.4](https://github.com/newtelanto/eslint-config/compare/v0.1.3...v0.1.4) (2021-08-23)
 
 
