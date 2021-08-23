@@ -20,6 +20,8 @@ module.exports = {
     '@typescript-eslint/no-unused-vars': 'error',
     'no-redeclare': 'off',
     '@typescript-eslint/no-redeclare': 'error',
+    'no-use-before-define': 'off',
+    '@typescript-eslint/no-use-before-define': 'off',
 
     // off
     '@typescript-eslint/camelcase': 'off',
