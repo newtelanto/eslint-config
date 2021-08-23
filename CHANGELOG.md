@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.6](https://github.com/newtelanto/eslint-config/compare/v0.1.5...v0.1.6) (2021-08-23)
+
+
+### Bug Fixes
+
+* **rule:** removed rules not applying correctly ([52a009f](https://github.com/newtelanto/eslint-config/commit/52a009f29c5745e42a9d751483a32227619c12ab))
+
+
+### Features
+
+* **rule:** turn off no-use-before-define rule ([e4c66e8](https://github.com/newtelanto/eslint-config/commit/e4c66e8ddb689e88361580a08c2a466e4a7cb9e6))
+
+
+
+
+
 ## [0.1.5](https://github.com/newtelanto/eslint-config/compare/v0.1.4...v0.1.5) (2021-08-23)
 
 

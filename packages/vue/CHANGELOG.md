@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.6](https://github.com/newtelanto/eslint-config/compare/v0.1.5...v0.1.6) (2021-08-23)
+
+
+### Bug Fixes
+
+* **rule:** removed rules not applying correctly ([52a009f](https://github.com/newtelanto/eslint-config/commit/52a009f29c5745e42a9d751483a32227619c12ab))
+
+
+
+
+
 ## [0.1.5](https://github.com/newtelanto/eslint-config/compare/v0.1.4...v0.1.5) (2021-08-23)
 
 
