@@ -1,8 +1,8 @@
-const basic = require('@newtelanto/eslint-config-basic')
+const basic = require('@telanto/eslint-config-basic')
 
 module.exports = {
   extends: [
-    '@newtelanto/eslint-config-basic',
+    '@telanto/eslint-config-basic',
     'plugin:@typescript-eslint/recommended',
     'plugin:import/typescript',
   ],

@@ -1,6 +1,6 @@
 {
   "name": "@telanto/eslint-config-vue",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -17,7 +17,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "@newtelanto/eslint-config-typescript": "^0.0.0",
+    "@telanto/eslint-config-typescript": "^0.1.0",
     "eslint-plugin-vue": "7.16.0"
   },
   "devDependencies": {

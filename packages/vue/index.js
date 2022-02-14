@@ -15,7 +15,7 @@ module.exports = {
   ],
   extends: [
     'plugin:vue/vue3-recommended',
-    '@newtelanto/eslint-config-typescript',
+    '@telanto/eslint-config-typescript',
   ],
   rules: {
     'vue/max-attributes-per-line': ['warn', { singleline: 5 }],
