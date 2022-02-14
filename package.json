@@ -1,22 +1,16 @@
 {
-  "name": "@newtelanto/eslint-config",
+  "name": "@telanto/eslint-config",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
   "scripts": {
     "lint": "yarn eslint --ext .js,.json --fix .",
-    "release": "lerna version",
-    "release:patch": "lerna publish patch",
-    "release:minor": "lerna publish minor",
-    "release:major": "lerna publish major"
+    "publish": "changeset publish"
   },
   "devDependencies": {
-    "@newtelanto/eslint-config-basic": "*",
-    "eslint": "^7.30.0",
-    "lerna": "^4.0.0",
-    "typescript": "^4.3.5"
-  },
-  "workspaces": [
-    "packages/*"
-  ]
+    "@changesets/cli": "^2.20.0",
+    "@telanto/eslint-config-basic": "*",
+    "eslint": "^8.9.0",
+    "typescript": "^4.5.5"
+  }
 }

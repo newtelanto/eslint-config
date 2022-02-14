@@ -1,6 +1,6 @@
 {
-  "name": "@newtelanto/eslint-config-vue",
-  "version": "0.1.6",
+  "name": "@telanto/eslint-config-vue",
+  "version": "0.0.0",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -13,18 +13,14 @@
     "index.js"
   ],
   "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com/"
+    "access": "public"
   },
   "main": "index.js",
-  "peerDependencies": {
-    "eslint": ">=7.4.0"
-  },
   "dependencies": {
-    "@newtelanto/eslint-config-typescript": "^0.1.6",
+    "@newtelanto/eslint-config-typescript": "^0.0.0",
     "eslint-plugin-vue": "7.16.0"
   },
   "devDependencies": {
-    "eslint": "^7.32.0"
+    "eslint": "^8.9.0"
   }
 }

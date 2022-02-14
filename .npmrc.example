@@ -1,2 +1,1 @@
-//npm.pkg.github.com/:_authToken=TOKEN
-@newtelanto:registry=https://npm.pkg.github.com
+//registry.npmjs.org/:_authToken=TOKEN
